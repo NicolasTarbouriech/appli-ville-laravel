@@ -9,6 +9,3 @@
     <p>Il est {{ date('h:i A') }}.</p>
 @endsection
 
-@section('footer')
-<p>&copy; Copyright {{date ('Y')}} &middot; <a href="/about-us">A propos</a></a></p>
-@endsection
